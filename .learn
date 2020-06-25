@@ -1,7 +1,7 @@
-tags:
+tags
   - introduction
-  - error messages
-  - lecture
+   puts "error messages"
+  puts "lecture"
 languages:
   - ruby
 type:
